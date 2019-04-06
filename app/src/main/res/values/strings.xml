@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ModbusTest</string>
+    <string name="start">Старт</string>
+</resources>
